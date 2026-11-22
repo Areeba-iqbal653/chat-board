@@ -4,11 +4,25 @@ A multi-room chat application built with plain PHP, MySQL, HTML, CSS and JavaScr
 
 **Live demo:** _add your link here_ · **Code:** this repository
 
-![Chat in light mode](screenshots/chat-light.png)
+## Screenshots
 
-| Dark mode | Mobile view |
-|-----------|-------------|
-| ![Dark mode](screenshots/chat-dark.png) | ![Mobile](screenshots/mobile.png) |
+**Two users chatting in the same room**
+
+![Two users chatting](screenshots/two-users.png)
+
+**Login page and light mode**
+
+<p>
+  <img src="screenshots/login.png" alt="Login page" width="49%">
+  <img src="screenshots/chat-light.png" alt="Chat in light mode" width="49%">
+</p>
+
+**Dark mode and mobile view**
+
+<p>
+  <img src="screenshots/chat-dark.png" alt="Chat in dark mode" width="49%">
+  <img src="screenshots/mobile.png" alt="Mobile view" width="30%">
+</p>
 
 ## Features
 - User registration and login (PHP sessions)
